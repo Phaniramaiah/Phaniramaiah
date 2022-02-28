@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phaniramaiah
 - 👀 I’m interested in github
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently learning devops!
 - 💞️ I’m looking to collaborate on repositories
 - 📫 How to reach me connectphanikumar@gmail.com.
 
